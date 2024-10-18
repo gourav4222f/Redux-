@@ -12,7 +12,7 @@ export default function Counter() {
 
     return (
         <div>
-            {count} // Display the current count
+            {count}
 
             <div style={{ display: 'flex', justifyContent: 'space-between', width: '10%' }}>
                 {/* Dispatch increment action when button is clicked */}

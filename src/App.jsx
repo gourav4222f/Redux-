@@ -1,10 +1,7 @@
-import Counter from "./components/Counter";
+import React from 'react'
 
 export default function App() {
   return (
-    <div>
-      app
-      <Counter />
-    </div>
+    <div>App</div>
   )
 }
