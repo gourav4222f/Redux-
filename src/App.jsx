@@ -1,7 +1,13 @@
-import React from 'react'
+import AllProduct from "./component/AllProduct";
+import Oneproduct from "./component/Oneproduct";
+
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+      {/* <AllProduct/> */}
+      <Oneproduct/>
+      
+    </div>
   )
 }
